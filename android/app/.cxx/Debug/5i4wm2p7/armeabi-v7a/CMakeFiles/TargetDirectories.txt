@@ -1,0 +1,2 @@
+H:/myProject/finance_ui_udemy_course-main/android/app/.cxx/Debug/5i4wm2p7/armeabi-v7a/CMakeFiles/edit_cache.dir
+H:/myProject/finance_ui_udemy_course-main/android/app/.cxx/Debug/5i4wm2p7/armeabi-v7a/CMakeFiles/rebuild_cache.dir
