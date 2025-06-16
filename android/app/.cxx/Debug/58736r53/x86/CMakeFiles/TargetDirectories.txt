@@ -1,0 +1,2 @@
+H:/myProject/finance_ui/android/app/.cxx/Debug/58736r53/x86/CMakeFiles/edit_cache.dir
+H:/myProject/finance_ui/android/app/.cxx/Debug/58736r53/x86/CMakeFiles/rebuild_cache.dir
